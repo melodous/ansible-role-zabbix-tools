@@ -1,0 +1,9 @@
+---
+galaxy_info:
+  author: Raul Melo
+  description: Zabbix Tools
+  company: OpenSolutions
+  platforms:
+    - name: RedHat
+      versions:
+        - 7
